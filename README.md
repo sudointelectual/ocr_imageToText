@@ -7,3 +7,5 @@ Launch Python script and select image. OCR converted text should be in text file
 
 
 
+https://github.com/sudointelectual/ocr_imageToText/assets/103446116/6c5806b6-a1e4-4c5d-99a6-06ee354c3e30
+
